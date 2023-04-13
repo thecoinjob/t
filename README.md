@@ -1,5 +1,3 @@
-# // This work is licensed under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
-// © LuxAlgo
 
 //@version=5
 indicator("Smart Money Concepts [LuxAlgo]", "Smart Money Concepts [LuxAlgo]"
